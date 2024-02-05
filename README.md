@@ -12,6 +12,7 @@ This repository is used for the primary Sitecore DXP demo that uses:
 - Vercel
 - Tailwind CSS
 - Storybook
+- Test
 
 ## [📖 Documentation](docs/README.md)
 
